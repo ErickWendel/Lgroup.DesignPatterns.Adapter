@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Adapter\LGroup.Adapter.Model\bin\Debug\LGroup.Adapter.Model.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Adapter\LGroup.Adapter.Model\bin\Debug\LGroup.Adapter.Model.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Adapter\LGroup.Adapter.Model\obj\Debug\LGroup.Adapter.Model.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Adapter\LGroup.Adapter.Model\obj\Debug\LGroup.Adapter.Model.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Adapter\LGroup.Adapter.Model\obj\Debug\LGroup.Adapter.Model.pdb

@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Adapter\LGroup.Adapter.Business\bin\Debug\LGroup.Adapter.Business.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Adapter\LGroup.Adapter.Business\bin\Debug\LGroup.Adapter.Business.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Adapter\LGroup.Adapter.Business\bin\Debug\LGroup.Adapter.Model.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Adapter\LGroup.Adapter.Business\bin\Debug\LGroup.Adapter.Model.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Adapter\LGroup.Adapter.Business\obj\Debug\LGroup.Adapter.Business.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Adapter\LGroup.Adapter.Business\obj\Debug\LGroup.Adapter.Business.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Adapter\LGroup.Adapter.Business\obj\Debug\LGroup.Adapter.Business.pdb
